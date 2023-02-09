@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat&family=Shadows+Into+Light+Two&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+.card{
+    width: 80%;
+    margin: auto;
+    padding-top: 8%;
+    border: none;
+}
+.card1 h4{
+    font-family: 'Inter';
+    color: #232536;
+}
+.card h3{
+    font-family: 'Inter';
+    color: #1E1E1E;
+    width: 100%;
+
+}
+.card-1{
+    position: relative;
+    top: -20px;
+    left: 20px;
+    background-color:F4F0F8 ;
+    width: 400px;
+}
+.sec2{
+    width: 100vw;
+}
+h2{
+    font-family: 'Shadows Into Light Two';
+    color: #FF9800;
+}
+h5{
+    font-family: 'Inter';
+    color: #1E1E1E;
+}
+.sec2 .row{
+    width: 80%;
+    background-color:#F4F0F8;
+    margin-left:15%;
+    
+}
+.sec2 .card{
+    background: none;
+}
+.secB #flex{
+    width: 80%;
+    margin: auto;
+    
+}
+.secB #about2{
+    width: 300px;
+    height: 100%;
+}
+.secB .card{
+    border: none;
+    background: none;
+}
+.sec3 .card{
+    background: none;
+}
+.sec3 #div{
+    width: 80%;
+    margin: auto;
+} 
+.sec3 img{
+    width: 500px;
+    height: 100%;
+}
+.secD .container{
+    width: 100%;
+    margin: auto;
+}
+.secD img{
+    width: 60px;
+}
+.secD{
+    width: 80%;
+    margin: auto;
+}
+h3{
+    width: 200px;
+    margin: auto;
+    font-family: 'Shadows Into Light Two';
+    color: #FF9800;
+}
